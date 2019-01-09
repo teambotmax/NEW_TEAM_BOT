@@ -1,4 +1,5 @@
-# NEW_TEAM_BOT
+# ☣ ᴛᴇᴀᴍ ʙᴏᴛ ☣
+# ✯ sᴇʟғʙᴏᴛ-ʙʏ:ᴍᴀx ✯
 
 - `☣ ᴛᴇᴀᴍ ʙᴏᴛ ☣`
 - `✯ sᴇʟғʙᴏᴛ-ʙʏ:ᴍᴀx ✯`
@@ -13,4 +14,4 @@
 - ` กู แม็ค ใหญ่สุด`
 
 # คนเล่นบอทที่สนใจเข้าแก๊งทักกูมา
-<a href="https://line.me/R/ti/p/mfMGEflENb"><img height="36" border="0" alt="เพิ่มเพื่อน" src="https://scdn.line-apps.com/n/line_add_friends/btn/en.png"></a>
+<a href="https://line.me/R/ti/p/mfMGEflENb"><img height="36" border="0" alt="SELFBOT-BY:MAX" src="https://scdn.line-apps.com/n/line_add_friends/btn/en.png"></a>
