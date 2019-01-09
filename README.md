@@ -13,4 +13,4 @@
 - ` กู แม็ค ใหญ่สุด`
 
 # คนเล่นบอทที่สนใจเข้าแก๊งทักกูมา
-https://line.me/ti/p/mfMGEflENb
+<a href="https://line.me/R/ti/p/mfMGEflENb"><img height="36" border="0" alt="เพิ่มเพื่อน" src="https://scdn.line-apps.com/n/line_add_friends/btn/en.png"></a>
